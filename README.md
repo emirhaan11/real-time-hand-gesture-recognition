@@ -18,12 +18,12 @@ This project demonstrates a **real-time finger counting application** using **Py
 ## 🚀 How to Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/finger-counting.git
-   cd finger-counting
+   git clone https://github.com/emirhaan11/real-time-hand-gesture-recognition
+   cd real-time-hand-gesture-recognition
 
 2. **Install Dependencies**
    ```bash
-   pip install opencv-python numpy
+   pip install opencv-python numpy scikit-learn
 
 2. **Run the notebook**
    ```bash
