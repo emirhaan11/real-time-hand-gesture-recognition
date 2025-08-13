@@ -27,11 +27,11 @@ This project demonstrates a **real-time finger counting application** using **Py
 
 2. **Run the notebook**
    ```bash
-   jupyter notebook finger_count.ipynb
+   python finger_count.py
 
  ## 📖 How to Use
  1. Make sure your webcam is connected and working.
- 2. Run all cells in the Jupyter Notebook.
+ 2. Run the python file.
  3. When prompted, place your hand in front of the camera within the detection frame.
  4. For best results, keep your hand in front of a plain, pattern-free background such as a flat wall. This reduces noise and improves detection accuracy.
  5. Hold your fingers apart for better detection accuracy.
